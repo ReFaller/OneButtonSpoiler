@@ -1,0 +1,2 @@
+# OneButtonSpoiler
+MediaWiki Extension
